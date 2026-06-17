@@ -29,6 +29,7 @@
 
 ## NUF Scoring Matrix
 *Scale: 1 (Very Weak) to 5 (Very Strong). Formula used: Total = New + Useful + Feasible.*
+[Click Here to View Live Excel Spreadsheet Verification Matrix](https://docs.google.com/spreadsheets/d/1tbTOpsHM3vspAQpnt5lYjK7aE-0pRCm2XaYnVtRQdlo/edit?usp=sharing)
 
 | Idea Reference | New | Useful | Feasible | Total | Rank | Notes / Strategic Evaluation |
 |---|---|---|---|---|---|---|
