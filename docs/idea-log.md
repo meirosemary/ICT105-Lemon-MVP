@@ -1,4 +1,9 @@
 # IT Venture Ideas Analysis
+| Idea | Problem Area | Target User | Current Alternative | Initial Technology Direction |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Lost-and-Found System** | Lost items on campus and nowhere to report/search. | Students, security, and admin staff. | Chat groups and asking security manually. | Web prototype (HTML/CSS/JS), DB/Google Sheet backend, image upload. |
+| **2. Digital Notice Board** | Scattered event information across the university. | Students. | LINE chat groups. | Web app with simple catalog display and SMS alerting API. |
+| **3. Skill-Share Matchmaker** | Finding project peers with specific technical/design skills. | Students looking for project collaborators. | Random professor assignments or massive forums. | Web dashboard, search/filter components, match notifications. |
 
 ## Idea 1: Smart Campus Lost-and-Found System
 * **Problem Area:** Students lack a centralized, reliable system to report or search for lost items on campus.
