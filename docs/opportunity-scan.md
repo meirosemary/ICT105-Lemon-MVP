@@ -37,9 +37,4 @@
 | Idea 3: Campus Lost-and-Found | 4 | 5 | 5 | **14** | 1 | **SELECTED.** Strongest problem validation loop. No IoT needed. |
 | Idea 4: Clinic Queue Portal | 4 | 4 | 3 | **11** | 4 | Real-time tracking requires high algorithmic maintenance. |
 | Idea 5: Language/Skill Match | 3 | 3 | 4 | **10** | 5 | Moderate user demand; simple text-filtering data requirements. |
-| Idea 6: Club Event Check-in | 2 | 4 | 3 | **9** | 6 | Market features exist; low competitive differentiation. |
-
-### Spreadsheet Formulas Reference
-* **Total Score Formula (Column E):** `=SUM(B2:D2)`
-* **Ranking Matrix Formula (Column F):** `=RANK(E2,$E$2:$E$7,0)`
-* **Active Cloud Link:** [Click Here to View Live Excel Spreadsheet Verification Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-SampleLink-ICT105/pubhtml) 
+| Idea 6: Club Event Check-in | 2 | 4 | 3 | 
