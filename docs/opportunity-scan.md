@@ -26,3 +26,20 @@
 | Idea 4 (Clinic Queue)| Interactive Mockup | Figma Interactive Clickable Prototype | Average check times, queue slots | Medium | Yes |
 | Idea 5 (Peer Match) | Web App Prototype | HTML, CSS, JS Text Filtering | User skills, language profiles | Medium | Yes |
 | Idea 6 (Club Events) | Form-based MVP | Airtable Web Forms, Shared Dashboard | Attendee IDs, registration timestamps | Low | Yes |
+
+## NUF Scoring Matrix
+*Scale: 1 (Very Weak) to 5 (Very Strong). Formula used: Total = New + Useful + Feasible.*
+
+| Idea Reference | New | Useful | Feasible | Total | Rank | Notes / Strategic Evaluation |
+|---|---|---|---|---|---|---|
+| Idea 1: Deadline Dashboard | 3 | 5 | 5 | **13** | 2 | Highly useful; easily built with simple web code. |
+| Idea 2: Cafe Stock Tracker | 3 | 4 | 5 | **12** | 3 | Highly feasible; completely uses spreadsheet backends. |
+| Idea 3: Campus Lost-and-Found | 4 | 5 | 5 | **14** | 1 | **SELECTED.** Strongest problem validation loop. No IoT needed. |
+| Idea 4: Clinic Queue Portal | 4 | 4 | 3 | **11** | 4 | Real-time tracking requires high algorithmic maintenance. |
+| Idea 5: Language/Skill Match | 3 | 3 | 4 | **10** | 5 | Moderate user demand; simple text-filtering data requirements. |
+| Idea 6: Club Event Check-in | 2 | 4 | 3 | **9** | 6 | Market features exist; low competitive differentiation. |
+
+### Spreadsheet Formulas Reference
+* **Total Score Formula (Column E):** `=SUM(B2:D2)`
+* **Ranking Matrix Formula (Column F):** `=RANK(E2,$E$2:$E$7,0)`
+* **Active Cloud Link:** [Click Here to View Live Excel Spreadsheet Verification Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-SampleLink-ICT105/pubhtml) 
