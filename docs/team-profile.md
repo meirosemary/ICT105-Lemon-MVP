@@ -19,7 +19,7 @@
 | Tin May Lin | Basic HTML | Canva | Presentation |
 | Ice | JavaScript beginner | Figma beginner | Team coordination |
 | Mr. Kyaw Ye Lin | Spreadsheet | UI layout | Interview questions |
-| Phoochit Jantakam | Documentation Lead | Maintain documentation |
+| Phoochit Jantakam | Documentation | Google Docs | Prepare Documents |
 
 
 ## Team Working Agreement
