@@ -6,10 +6,12 @@
 ## Team Members and Roles
 | Student ID | Name | Role | Main Responsibility |
 |---|---|---|---|
-| Crystal | Product Lead | Define problem, target users, and value proposition |
-| Phollapat Rodchue | Technical Lead | Manage repository and prototype feasibility |
-| Tin May Lin | UX/UI Lead  | Design interface |
-| Phoochit Jantakam | Documentation Lead | Maintain documentation |
+| 6802950 | Mr. Kyaw Ye Lin | Product Lead | Define problem and target users |
+| 6807558 | Phollapat Rodchue (Ice) | Technical Lead | Manage prototype and repository |
+| 6509953 | Tin May Lin | UX/UI Lead + Documentation Lead | Design interface and maintain documents |
+|6800679| Phoochit Jantakam | Documentation Lead | Maintain documentation |
+
+
 
 ## Team Skills Inventory
 | Member | Technical Skills | Design Skills | Business/Communication Skills |
